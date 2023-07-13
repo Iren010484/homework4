@@ -9,16 +9,6 @@ int ReadInt(string message)
     return number;
 }
 
-/*bool Validate(int numb)
-{
-    if (numb < 100) 
-        {   
-            Console.WriteLine("Третьей цифры нет");
-            return false;
-        }
-    return true;
-}*/
-
 int Degree(int number, int degr)
 {
     int i = 0;
